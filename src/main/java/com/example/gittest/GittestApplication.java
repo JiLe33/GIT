@@ -13,7 +13,7 @@ public class GittestApplication {
 
         B.test();
         JavaController.s();
-
+        System.out.println("修改一下");
     }
 
 }
