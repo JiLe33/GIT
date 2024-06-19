@@ -13,10 +13,7 @@ public class GittestApplication {
 
         B.test();
         JavaController.s();
-        System.out.println("修改一下");
-        System.out.println("再修改一下");
-        System.out.println("再再修改一下");
-        System.out.println("再再再修改一下");
+        System.out.println("a分支一切返回原点");
     }
 
 }
