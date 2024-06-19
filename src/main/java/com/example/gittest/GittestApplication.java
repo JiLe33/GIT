@@ -13,7 +13,7 @@ public class GittestApplication {
 
         B.test();
         JavaController.s();
-        System.out.println("a分支一切返回原点");
+        System.out.println("返回原点");
     }
 
 }
