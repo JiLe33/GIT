@@ -14,6 +14,7 @@ public class GittestApplication {
         B.test();
         JavaController.s();
         System.out.println("修改一下");
+        System.out.println("再修改一下");
     }
 
 }
